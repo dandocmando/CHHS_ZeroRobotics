@@ -3,7 +3,7 @@
 float yPos, xPos, zPos;
 float startPosition[3];
 float currentPosition[3];
-float moveposition[0];
+float moveposition[1];
 float attitude[3];
 int counter;
 void init(){
